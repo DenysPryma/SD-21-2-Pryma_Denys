@@ -1,14 +1,8 @@
-# Створено https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
-# Редагувати на https://www.toptal.com/developers/gitignore?templates=python,visualstudiocode
-
-# Ігнорувані папки
 .venv/
 .idea/
 __pycache__/
 
-# Ігноруваний файл
 ignoremepls.py
-
 
 ### Python ###
 # Зібрані по байтам / оптимізовані / файли DLL
