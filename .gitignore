@@ -1,0 +1,8 @@
+# Ігнорувані папки
+.venv/
+.idea/
+__pycache__/
+
+# Ігноруваний файл
+ignoremepls.py
+ 
